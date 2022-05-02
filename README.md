@@ -6,7 +6,7 @@
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
-## Made with ♥ By [Gyanish Shrivastava](https://github.com/gyanish)
+## Made with ♥ By [Gyanish Shrivastava](https://github.com/gyanish0)
 
 [![Gyanish Shrivastava](https://avatars.githubusercontent.com/u/91131495?v=4)](https://github.com/gyanish0)
 
