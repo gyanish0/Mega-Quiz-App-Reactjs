@@ -1,5 +1,8 @@
 # Mega Quiz Hub with React JS, Material UI and Chart JS
 
+## Demo
+#### Here is a working live demo :  https://mega-quiz-hub.netlify.app/
+
 ## Built with
 
 - [React JS](https://reactjs.org/)
